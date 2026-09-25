@@ -95,7 +95,7 @@
                     A
                 </div>
                 <div>
-                    <h1 class="font-bold text-lg tracking-tight">badayos</h1>
+                    <h1 class="font-bold text-lg tracking-tight">WAYNE</h1>
                     <p class="text-xs text-[var(--text-secondary)] font-semibold">task manager</p>
                 </div>
             </div>
